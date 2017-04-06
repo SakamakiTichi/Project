@@ -1,0 +1,7 @@
+
+
+
+void testfunction()
+{
+	printf("test");
+}
